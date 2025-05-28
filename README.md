@@ -1,1 +1,1 @@
-# Loan Status Prediction Using SVM
+# Loan Status Prediction Using Support Vector Machine
